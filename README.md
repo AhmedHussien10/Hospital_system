@@ -1,5 +1,5 @@
 # Hospital_system
-___
+---
 Hospital Management System Project in C++ using structs - simple console application.
 This project implements a simple patient management system for a hospital, allowing doctors to manage patient queues based on their specialization and urgency of treatment.
 
